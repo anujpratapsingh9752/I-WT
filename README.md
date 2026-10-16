@@ -104,3 +104,94 @@ Real-Life Example: When you open `www.google.com`, your browser requests the Goo
 
 * Excessive use can affect productivity.
 
+### WWW (World Wide Web)
+
+1\. Simple Definition
+
+WWW stands for World Wide Web. It is a collection of web pages and websites that we can access through the Internet using a web browser.
+
+2\. Real-Life Example
+
+When we open Google Chrome and visit www.wikipedia.org to read information, we are using the World Wide Web.
+
+3\. 10 Important Points
+
+* Full Form: WWW stands for World Wide Web.
+
+* Inventor: Tim Berners-Lee invented the World Wide Web.
+
+* Invention Year: It was invented in 1989.
+
+* Web Pages: WWW contains many web pages.
+
+* Websites: A group of related web pages forms a website.
+
+* Internet: WWW works using the Internet.
+
+* Web Browser: We use browsers like Chrome, Firefox, and Edge to access the WWW.
+
+* Hyperlinks: Hyperlinks connect one web page to another.
+
+* Protocols: HTTP and HTTPS are used to transfer web content.
+
+* Uses: WWW is used for education, communication, shopping, and entertainment.
+
+4\. Flow Diagram
+
+User → Web Browser → Internet → Web Server → Web Page Displayed
+
+5\. Working
+
+* The user opens a web browser.
+
+* The user enters a website address (URL).
+
+* The browser sends a request through the Internet.
+
+* The web server receives the request.
+
+* The server sends the requested web page.
+
+* The browser displays the web page to the user.
+
+6\. Advantages
+
+* Provides easy access to information.
+
+* Supports online education.
+
+* Helps people communicate worldwide.
+
+* Supports online shopping and banking.
+
+* Provides news and entertainment.
+
+* Allows easy sharing of information.
+
+7\. Disadvantages
+
+* False information may be available.
+
+* Online fraud and scams can occur.
+
+* Personal data may be stolen.
+
+* Excessive use can waste time.
+
+* Some websites contain harmful content.
+
+* Internet access is required to access most web content.
+
+8\. Difference Between Internet and WWW
+
+| Internet                                                   | World Wide Web (WWW)                                  |
+| ---------------------------------------------------------- | ----------------------------------------------------- |
+| It is a global network of connected computers and devices. | It is a collection of linked web pages and resources. |
+| It is the infrastructure for online communication.         | It is a service that works over the Internet.         |
+| It supports email, file transfer, web browsing, and more.  | It mainly provides access to websites and web pages.  |
+| It uses technologies and protocols such as TCP/IP.         | It commonly uses HTTP and HTTPS.                      |
+| It is broader than the WWW.                                | It is one part of the Internet.                       |
+
+Exam Tip: WWW and Internet are not the same. The Internet is the network, while the WWW is a service that uses that network.
+
+
